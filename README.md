@@ -7,6 +7,10 @@
     * It's important that torch and torchvision packages are up to date; I had many problems with torch 1.0.1 for instance.
 * Run *run.py* to download and format data.
 
+## Setting up
+
+* DL_project.pdf is the project report.
+
 ## Notebooks
 
 * Notebook *lenet.ipynb* runs LeNet with downscaled 32x32 greyscale images. 
