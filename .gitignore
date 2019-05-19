@@ -1,0 +1,11 @@
+__pycache__/
+venv/
+.idea/
+.ipynb_checkpoints/
+tiny-imagenet-200/
+tiny-28/
+models/
+wnids.txt
+words.txt
+logs/
+tiny-imagenet.zip
